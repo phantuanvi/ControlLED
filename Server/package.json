@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "npm run prod && DEBUG=* node server.js",
+    "build": "./node_modules/.bin/webpack --progress --colors --config webpack.config.js",
+    "watch": "./node_modules/.bin/webpack --progress --colors --progress --watch --config webpack.config.js",
+    "prod": "./node_modules/.bin/webpack -p --colors --progress --hide-modules --config webpack.config.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^1.7.4"
+  }
+}
