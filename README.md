@@ -23,9 +23,9 @@
 <br>
 
 <p float="left">
-<img src="https://github.com/phantuanvi/ControlLED/tree/master/images/ios1.png" width="200"/>
-<img src="https://github.com/phantuanvi/ControlLED/tree/master/images/ios2.png" width="200"/>
-<img src="https://github.com/phantuanvi/ControlLED/tree/master/images/ios3.png" width="200"/>
+<img src="https://github.com/phantuanvi/ControlLED/blob/master/images/ios1.png" width="200"/>
+<img src="https://github.com/phantuanvi/ControlLED/blob/master/images/ios2.png" width="200"/>
+<img src="https://github.com/phantuanvi/ControlLED/blob/master/images/ios3.png" width="200"/>
 </p>
 
 #### Về phần cứng
