@@ -23,9 +23,9 @@
 <br>
 
 <p float="left">
-<img src="http://esp2led.herokuapp.com/assets/images/ios1-170c5d947c.png" width="200"/>
-<img src="http://esp2led.herokuapp.com/assets/images/ios2-eb6b46414f.png" width="200"/>
-<img src="http://esp2led.herokuapp.com/assets/images/ios3-340b64a527.png" width="200"/>
+<img src="https://github.com/phantuanvi/ControlLED/tree/master/images/ios1.png" width="200"/>
+<img src="https://github.com/phantuanvi/ControlLED/tree/master/images/ios2.png" width="200"/>
+<img src="https://github.com/phantuanvi/ControlLED/tree/master/images/ios3.png" width="200"/>
 </p>
 
 #### Về phần cứng
